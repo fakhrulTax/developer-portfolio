@@ -44,3 +44,18 @@ p{
     background-repeat: no-repeat;
     background-position: right;
 }
+
+/********* Experience Section **********/
+.experience .half-width {
+    box-shadow: 0px 2px 15px #000000;
+}
+.red-border{
+    border-left: 8px solid red;
+}
+
+.green-border{
+    border-left: 8px solid green;
+}
+.text-center{
+    text-align: center;
+}
