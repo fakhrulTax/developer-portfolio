@@ -1,0 +1,34 @@
+body{
+    margin:0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+/********* Header Section **********/
+.header{
+    display: flex;
+    background-image: url(../images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.half-width{
+    width: 50%;
+    margin-left:2%;
+    padding-left: 5%;
+}
+.orange{
+    color: orange;
+}
+.half-width > img{
+    width: 90%;
+}
+.hireme{
+    text-decoration: none;
+    color: #ffffff;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+/********* Header Section **********/
